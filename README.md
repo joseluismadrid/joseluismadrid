@@ -6,7 +6,7 @@ Un apasionado desarrollador de software colombiano de 30 años, con una sólida 
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/JoséLuisMadridLondoño](https://www.linkedin.com/in/jos%C3%A9-luis-madrid-londo%C3%B1o-217b38274?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/jos%C3%A9-luis-madrid-londo%C3%B1o-217b38274?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app]) 
  
 
 # 💻 Tech Stack:
