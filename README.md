@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joseluismadrid&label=Profile%20views&color=0e75b6&style=flat" alt="joseluismadrid" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joseluismadrid" alt="joseluismadrid" /></a> </p>
-
 - 🔭 Actualmente estoy trabajando en **Proyecto financiero**
 
 - 🌱 Actualmente estoy aprendiendo. **Angular, Ionic, MongoDb**
