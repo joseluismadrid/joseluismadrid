@@ -2,8 +2,6 @@
   
 <img src="joseluismadrid.jpeg" alt="José Luis Madrid" />
 
-### 💻 Software Developer · Full Stack
-
 **Diseño y desarrollo de soluciones web con foco en arquitectura, mantenibilidad y experiencia de usuario.**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-joseluismadrid.com-0e75b6?style=for-the-badge&logo=google-chrome&logoColor=white)](https://joseluismadrid.com/)
