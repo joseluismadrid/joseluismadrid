@@ -1,6 +1,11 @@
 <div align="center">
 
+
+
 # José Luis Madrid Londoño
+
+<img src="joseluismadrid.jpeg">
+
 
 ### Software Developer · Full Stack
 
