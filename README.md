@@ -1,30 +1,156 @@
-<img src="Jose Luis Madrid Londoño.png">
+<div align="center">
 
-<h1 align="center">¡Hola! soy Jose Luis Madrid Londoño 🖥️</h1>
-<h3 align="center">Un desarrollador de software junior de Colombia</h3>
+# José Luis Madrid Londoño
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=joseluismadrid&label=Profile%20views&color=0e75b6&style=flat" alt="joseluismadrid" /> </p>
+### Software Developer · Full Stack
 
-- 🔭 Actualmente estoy trabajando en **Proyecto financiero**
+**Diseño y desarrollo de soluciones web con foco en arquitectura, mantenibilidad y experiencia de usuario.**
 
-- 🌱 Actualmente estoy aprendiendo. **Angular, Ionic, MongoDb**
+[![Portfolio](https://img.shields.io/badge/Portfolio-joseluismadrid.com-0e75b6?style=for-the-badge&logo=google-chrome&logoColor=white)](https://joseluismadrid.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-José%20Luis%20Madrid-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-madrid/)
+[![GitHub](https://img.shields.io/badge/GitHub-joseluismadrid-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joseluismadrid)
 
-- 💬 Pregúntame sobre **NodeJs, JavaScript…**
+</div>
 
-- 📫 como llegar a mi **joseluis6112011@hotmail.com**
+---
 
-- ⚡ Dato curioso **Yo soy una persona proactiva**
+## Sobre mí
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/jose madrid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jose madrid" height="30" width="40" /></a>
+Soy desarrollador de software con formación en **Análisis y Desarrollo de Software** y experiencia en desarrollo **Frontend y Backend**.
+
+Mi enfoque está orientado a construir aplicaciones que sean:
+
+- **Escalables:** estructuras preparadas para crecer sin aumentar innecesariamente la complejidad.
+- **Mantenibles:** código organizado, tipado y con responsabilidades bien definidas.
+- **Reutilizables:** componentes y servicios diseñados para evitar duplicación.
+- **Orientadas al usuario:** interfaces claras, responsive y enfocadas en una buena experiencia de uso.
+- **Preparadas para producción:** buenas prácticas de desarrollo, control de versiones y despliegue.
+
+> Mi portafolio reúne mi perfil, habilidades y proyectos: **[joseluismadrid.com](https://joseluismadrid.com/)**
+
+---
+
+## Portafolio
+
+Mi sitio personal presenta mi perfil profesional y centraliza las principales áreas de mi trabajo:
+
+| Sección | Descripción |
+|---|---|
+| **Home** | Presentación profesional y propuesta de valor. |
+| **About** | Perfil, formación y enfoque como desarrollador. |
+| **Projects** | Proyectos y soluciones desarrolladas. |
+| **Skills** | Tecnologías y herramientas con las que trabajo. |
+| **Contact** | Canal de contacto profesional. |
+
+**Visitar portafolio → [joseluismadrid.com](https://joseluismadrid.com/)**
+
+---
+
+## Stack tecnológico
+
+### Frontend
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="SCSS" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" alt="Ionic" width="40" height="40" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://ionicframework.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+### Backend
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joseluismadrid&show_icons=true&locale=en&layout=compact" alt="joseluismadrid" /></p>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="40" height="40" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joseluismadrid&show_icons=true&locale=en" alt="joseluismadrid" /></p>
+### Bases de datos
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joseluismadrid&" alt="joseluismadrid" /></p>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" width="40" height="40" />
+</p>
+
+### Herramientas
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" />
+</p>
+
+---
+
+## Enfoque de desarrollo
+
+```text
+Requerimientos
+      ↓
+Arquitectura
+      ↓
+Diseño UI/UX
+      ↓
+Desarrollo
+      ↓
+Testing
+      ↓
+CI/CD y despliegue
+      ↓
+Mantenimiento y evolución
+```
+
+Trabajo con especial atención a:
+
+- Arquitectura modular y separación de responsabilidades.
+- Componentes reutilizables.
+- TypeScript y tipado seguro.
+- Diseño responsive y accesible.
+- Integración con APIs REST.
+- Manejo de estados según la complejidad del producto.
+- SEO técnico para aplicaciones web.
+- SSR cuando el proyecto lo requiere.
+- Control de versiones con Git y GitHub.
+
+---
+
+## Proyectos
+
+Los proyectos publicados y la información correspondiente se mantienen en mi portafolio para evitar duplicar contenido y mantener una única fuente de información profesional.
+
+### Proyectos destacados
+
+**Ver proyectos → [joseluismadrid.com](https://joseluismadrid.com/)**
+
+---
+
+## Estadísticas de GitHub
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=joseluismadrid&show_icons=true&hide_border=true&locale=es" alt="Estadísticas de GitHub de José Luis Madrid" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseluismadrid&layout=compact&hide_border=true&locale=es" alt="Lenguajes más utilizados" />
+
+</div>
+
+---
+
+## Contacto
+
+Si quieres conocer más sobre mi trabajo, experiencia o proyectos:
+
+- **Portafolio:** [joseluismadrid.com](https://joseluismadrid.com/)
+- **GitHub:** [github.com/joseluismadrid](https://github.com/joseluismadrid)
+- **LinkedIn:** [linkedin.com/in/jose-madrid](https://www.linkedin.com/in/jose-madrid/)
+
+---
+
+<div align="center">
+
+**Construir software no es solamente escribir código; es resolver problemas con criterio técnico.**
+
+</div>
