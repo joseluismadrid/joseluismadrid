@@ -1,6 +1,6 @@
 <div align="center">
-  
-<img src="joseluismadrid.jpeg" alt="José Luis Madrid" style="vertical-align: middle;">
+
+<img src="joseluismadrid.jpeg" alt="José Luis Madrid"><br>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-joseluismadrid.com-0e75b6?style=for-the-badge&logo=google-chrome&logoColor=white)](https://joseluismadrid.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-José%20Luis%20Madrid-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-madrid/)
