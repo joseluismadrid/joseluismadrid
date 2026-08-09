@@ -1,13 +1,10 @@
 <div align="center">
 
+# 👨‍💻 José Luis Madrid Londoño
 
+<img src="joseluismadrid.jpeg" alt="José Luis Madrid" width="180" />
 
-# José Luis Madrid Londoño
-
-<img src="joseluismadrid.jpeg">
-
-
-### Software Developer · Full Stack
+### 💻 Software Developer · Full Stack
 
 **Diseño y desarrollo de soluciones web con foco en arquitectura, mantenibilidad y experiencia de usuario.**
 
@@ -19,7 +16,7 @@
 
 ---
 
-## Sobre mí
+## 👤 Sobre mí
 
 Soy desarrollador de software con formación en **Análisis y Desarrollo de Software** y experiencia en desarrollo **Frontend y Backend**.
 
@@ -35,25 +32,25 @@ Mi enfoque está orientado a construir aplicaciones que sean:
 
 ---
 
-## Portafolio
+## 🌐 Portafolio
 
 Mi sitio personal presenta mi perfil profesional y centraliza las principales áreas de mi trabajo:
 
 | Sección | Descripción |
 |---|---|
-| **Home** | Presentación profesional y propuesta de valor. |
-| **About** | Perfil, formación y enfoque como desarrollador. |
-| **Projects** | Proyectos y soluciones desarrolladas. |
-| **Skills** | Tecnologías y herramientas con las que trabajo. |
-| **Contact** | Canal de contacto profesional. |
+| **🏠 Home** | Presentación profesional y propuesta de valor. |
+| **👤 About** | Perfil, formación y enfoque como desarrollador. |
+| **🚀 Projects** | Proyectos y soluciones desarrolladas. |
+| **🛠️ Skills** | Tecnologías y herramientas con las que trabajo. |
+| **📩 Contact** | Canal de contacto profesional. |
 
 **Visitar portafolio → [joseluismadrid.com](https://joseluismadrid.com/)**
 
 ---
 
-## Stack tecnológico
+## 🧰 Stack tecnológico
 
-### Frontend
+### 🎨 Frontend
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular" width="40" height="40" />
@@ -65,14 +62,14 @@ Mi sitio personal presenta mi perfil profesional y centraliza las principales á
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" alt="Ionic" width="40" height="40" />
 </p>
 
-### Backend
+### ⚙️ Backend
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="40" height="40" />
 </p>
 
-### Bases de datos
+### 🗄️ Bases de datos
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40" />
@@ -80,7 +77,7 @@ Mi sitio personal presenta mi perfil profesional y centraliza las principales á
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" width="40" height="40" />
 </p>
 
-### Herramientas
+### 🔧 Herramientas
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40" />
@@ -90,7 +87,7 @@ Mi sitio personal presenta mi perfil profesional y centraliza las principales á
 
 ---
 
-## Enfoque de desarrollo
+## 🧠 Enfoque de desarrollo
 
 ```text
 Requerimientos
@@ -122,17 +119,17 @@ Trabajo con especial atención a:
 
 ---
 
-## Proyectos
+## 🚀 Proyectos
 
 Los proyectos publicados y la información correspondiente se mantienen en mi portafolio para evitar duplicar contenido y mantener una única fuente de información profesional.
 
-### Proyectos destacados
+### ⭐ Proyectos destacados
 
 **Ver proyectos → [joseluismadrid.com](https://joseluismadrid.com/)**
 
 ---
 
-## Estadísticas de GitHub
+## 📊 Estadísticas de GitHub
 
 <div align="center">
 
@@ -144,13 +141,13 @@ Los proyectos publicados y la información correspondiente se mantienen en mi po
 
 ---
 
-## Contacto
+## 📬 Contacto
 
 Si quieres conocer más sobre mi trabajo, experiencia o proyectos:
 
-- **Portafolio:** [joseluismadrid.com](https://joseluismadrid.com/)
-- **GitHub:** [github.com/joseluismadrid](https://github.com/joseluismadrid)
-- **LinkedIn:** [linkedin.com/in/jose-madrid](https://www.linkedin.com/in/jose-madrid/)
+- **🌐 Portafolio:** [joseluismadrid.com](https://joseluismadrid.com/)
+- **💻 GitHub:** [github.com/joseluismadrid](https://github.com/joseluismadrid)
+- **💼 LinkedIn:** [linkedin.com/in/jose-madrid](https://www.linkedin.com/in/jose-madrid/)
 
 ---
 
