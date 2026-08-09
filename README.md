@@ -2,7 +2,7 @@
 
 # 👨‍💻 José Luis Madrid Londoño
 
-<img src="joseluismadrid.jpeg" alt="José Luis Madrid" width="180" />
+<img src="joseluismadrid.jpeg" alt="José Luis Madrid" />
 
 ### 💻 Software Developer · Full Stack
 
@@ -126,18 +126,6 @@ Los proyectos publicados y la información correspondiente se mantienen en mi po
 ### ⭐ Proyectos destacados
 
 **Ver proyectos → [joseluismadrid.com](https://joseluismadrid.com/)**
-
----
-
-## 📊 Estadísticas de GitHub
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=joseluismadrid&show_icons=true&hide_border=true&locale=es" alt="Estadísticas de GitHub de José Luis Madrid" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseluismadrid&layout=compact&hide_border=true&locale=es" alt="Lenguajes más utilizados" />
-
-</div>
 
 ---
 
